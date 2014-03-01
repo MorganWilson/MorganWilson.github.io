@@ -36,11 +36,10 @@ body {
 	line-height: 1;
 }
 
-ol, ul {
+ol, ul, li {
 	list-style: none;
 	float:left;
     margin:10px;
-    background-color:teal;
     padding:7px 14px;
     color:white;
     text-transform:uppercase;
