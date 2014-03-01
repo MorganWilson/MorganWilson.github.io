@@ -19,8 +19,8 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-	margin: 10px;
-	padding: 10px;
+	margin: 0px;
+	padding: 0px;
 	border: 0;
 	font-size: 100%;
 	font: inherit;
@@ -30,7 +30,7 @@ time, mark, audio, video {
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
-	float: left;
+
 }
 body {
 	line-height: 1;
@@ -73,5 +73,19 @@ table {
 .clearfix { display: inline-block; }
 html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
+
+/* END RESET*/
+
+<head>
+   <style type="text/css">
+     header {
+       background-color:rgb(100,100,100);
+       padding:40px;
+       margin:50px;
+        
+    }
+  </style
+      
+</head>
 
 
