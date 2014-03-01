@@ -1,0 +1,25 @@
+       
+<style>
+  li {
+    list-style:none;
+    float:left;
+    margin:10px;
+    background-color:teal;
+    padding:7px 14px;
+    color:white;
+    text-transform:uppercase;
+    font-family:Helvetica;
+  }
+
+
+</style>
+
+       <nav id='top-menu'>
+      <ul>
+        <li>PHOTOS</li>
+        <li>ABOUT</li>
+        <li>SUBMIT</li>
+        <li>BLOG</li>
+        <li>CONTACT</li>
+         </ul>
+      </nav>
