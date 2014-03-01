@@ -35,6 +35,9 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+nav{
+	float: left
+}
 ol, ul {
 	list-style: none; 
 }
@@ -75,21 +78,4 @@ html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
 
 
-
-<head>
-   <style type="text/css">
-     header {
-       background-color:rgb(100,100,100);
-       padding:40px;
-       margin:50px;
-        }
-  </style
-      
-</head>
-
-<body>
-nav {
-	float: left; 
-
-}
 
