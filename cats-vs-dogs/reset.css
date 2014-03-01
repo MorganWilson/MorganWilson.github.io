@@ -36,10 +36,9 @@ body {
 	line-height: 1;
 }
 
-<style>
-  li {
-    list-style:none;
-    float:left;
+ol, ul {
+	list-style: none;
+	float:left;
     margin:10px;
     background-color:teal;
     padding:7px 14px;
@@ -49,10 +48,7 @@ body {
   }
 
 
-</style>
-
-ol, ul {
-	list-style: none; 
+</style> 
 }
 blockquote, q {
 	quotes: none;
