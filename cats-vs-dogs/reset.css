@@ -82,10 +82,14 @@ html[xmlns] .clearfix { display: block; }
        background-color:rgb(100,100,100);
        padding:40px;
        margin:50px;
-        
-    }
+        }
   </style
       
 </head>
 
+<body>
+nav {
+	float: left; 
+
+}
 
