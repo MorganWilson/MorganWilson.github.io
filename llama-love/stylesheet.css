@@ -58,8 +58,10 @@ table {
 
 /* END RESET */
 
-<style>
+
 body{
-	background-color: black;
+	float: right;
+	font-family: helvetica;
+	
 }
 
