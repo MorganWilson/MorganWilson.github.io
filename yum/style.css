@@ -84,7 +84,7 @@ ul{
 	font-size: 15px;
 	list-style-type:disc;
 	list-style-position:inside;
-	line-height:2px;
+	line-height:15px;
 
 }
 
@@ -93,7 +93,7 @@ ol{padding:10px;
 	font-size: 15px;
 	list-style-type:decimal;
 	list-style-position:outside;
-	line-height:2px;
+	line-height:15px;
 
 }
 
