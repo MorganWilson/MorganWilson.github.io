@@ -97,11 +97,10 @@ div{padding:10px;
 	font-family: Helvetica;
 	font-size: 15px;
 	list-style-type:disc;
-	list-style-position:inside;
+	list-style-position:outside;
 	line-height:17px;
 	float: right;
-	padding-bottom: 2000px;
-	padding-right: 400px;
+	
 
 }
 ol{padding:10px;
