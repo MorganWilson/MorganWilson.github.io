@@ -91,7 +91,7 @@ ol{padding:10px;
 	font-family: Helvetica;
 	font-size: 15px;
 	list-style-type:decimal;
-	list-style-position:inside;
+	list-style-position:outside;
 
 }
 
