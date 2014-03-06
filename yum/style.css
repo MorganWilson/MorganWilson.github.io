@@ -88,5 +88,7 @@ ul{
 ol{padding:10px;
 	font-family: Helvetica;
 	font-size: 15px;
+	list-style-type:decimal;
 
 }
+
