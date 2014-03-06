@@ -62,6 +62,7 @@ color: white;
 h1{
 	font-family: Helvetica;
 	font-size: 50px;
+	padding-bottom: 20px;
 }
 
 img{
@@ -78,9 +79,9 @@ h3{
 }
 ul{
 
-	padding:30px;
+	padding:10px;
 	font-family: Helvetica;
-	font-size: 10px;
+	font-size: 15px;
 
 }
 
