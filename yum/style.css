@@ -97,6 +97,7 @@ ul{
 
 }
 ol{padding:10px;
+	float: right;
 	font-family: Helvetica;
 	font-size: 15px;
 	list-style-type:decimal;
