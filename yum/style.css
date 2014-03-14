@@ -52,11 +52,15 @@ table {
 
 
 /* END RESET */
-body{
-padding: 30px;
-background-color: white;
-color: gray;
-
+header h1 {
+	padding-top: 100px;
+	padding-bottom: 25px;
+	color: black;
+	font-family: helvetica;
+	font-size: 48px;
+	letter-spacing: 5px;
+	font-style: bold;
+	text-align: center;
 }
 
 h1{
@@ -80,7 +84,9 @@ h3{
 	font-size: 20px;
 	text-transform: uppercase;
 	padding:20px;
-	
+}
+section1{
+
 }
 ul{
 
