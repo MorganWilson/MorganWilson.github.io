@@ -88,18 +88,11 @@ ul{
 	font-family: Helvetica;
 	font-size: 15px;
 	list-style-type:disc;
-	list-style-position:inside;
+	list-style-position:outside;
 	line-height:17px;
 	
 
-}
-div{padding:10px;
-	font-family: Helvetica;
-	font-size: 15px;
-	list-style-type:disc;
-	list-style-position:outside;
-	line-height:17px;
-	float: right;
+
 	
 
 }
