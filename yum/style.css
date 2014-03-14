@@ -64,13 +64,17 @@ header h1 {
 }
 h3{
 	padding-top: 110px;
-	padding-bottom: 15px;
-	color: black;
+	padding-bottom: 20 px;
+	color: gray;
 	font-family: helvetica;
 	font-size: 28px;
 	letter-spacing: 3px;
 	font-style: bold;
 	text-align: center;
+}
+#bread{
+	width: 100%;
+	padding: 10px;
 }
 h1{
 	font-family: Helvetica;
