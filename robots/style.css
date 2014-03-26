@@ -95,15 +95,13 @@ img{
   font-size: medium;
         
 }
-#page {
-      float: left;
+#page {float: left;
       width: 35%;
       margin: 20px 10px;
       padding: 10px 10px 10px 150px; }
 
 
-
-          #page h1{font-weight: bold;
+#page h1{font-weight: bold;
         font-family: helvetica;
         color: #4f3a11;
         text-transform: uppercase;
