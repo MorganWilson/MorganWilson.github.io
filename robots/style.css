@@ -50,3 +50,122 @@ table {
 	border-spacing: 0;
 }
 
+
+
+h1 {  position: absolute;
+
+
+ 	            background:url('images/logo.png') no-repeat top left;
+                text-indent: -9999px;
+
+              }
+              #site-header{position:relative;
+              height: 120%;
+              background-color: #d4e0a3;
+              width: 100%}
+
+img{
+ 	padding-left: 165px;
+}
+#top-nav{
+  text-decoration: none;
+  position: absolute;
+  right: 100px;
+  width: 150px;
+  height: 20px;
+  color: black;
+  font-size:small;}
+  #main-menu a:link{color:white;
+                  text-decoration: none;}
+  #main-menu{
+  position: relative;
+  height: 45px;
+  background-color: #4f3a11;
+  padding-left: 165px;
+}
+#main-menu li{
+  text-decoration: none;
+  float: left;
+  display: block;
+  padding: 10px;
+  margin: 5px 0px 5px 15px;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: medium;
+        
+}
+#page {
+      float: left;
+      width: 35%;
+      margin: 20px 10px;
+      padding: 10px 10px 10px 150px; }
+
+
+
+          #page h1{font-weight: bold;
+        font-family: helvetica;
+        color: #4f3a11;
+        text-transform: uppercase;
+        font-size: xx-large;
+        padding-bottom: 10px;
+        padding-top: 50px;
+
+}
+      #page h2{font-weight: bold;
+        font-family: helvetica;
+        color: #4f3a11;
+        text-transform: uppercase;
+        font-size: medium;
+        padding-top: 5px;
+        padding-bottom: 5px;
+}
+
+p{
+	font-weight: small;
+	font-family: helvetica;
+	line-height: 150%;
+	font-size: x-small;
+	padding-bottom: 10px;
+}
+
+#sidebar{
+	float: right;
+	width: 25%;
+	margin-top: 50px;
+    padding: 10px 220px 10px 10px;
+}
+#sidebar{
+	text-decoration: none;
+	color: #4f3a11;
+	font-size: x-small;
+	line-height: 150%;
+}
+#site-footer{
+clear: both;
+	  position: relative;
+    height: 220px;
+    width: 100%;
+    background-color: #4f3a11;
+}
+#footer-contact{
+	float:left;
+	width: 120%
+	margin:10px;
+}
+#footer-contact p{
+	float:left;
+	padding-left: 165px;
+	margin-right: 20px 20px 10px 10px;
+	padding-top: 20px;
+	padding-right: 400px;
+	color: white;
+
+}
+#footer-follow li {
+  float: left;
+  display: block;
+  padding-top: 5px;
+  margin: 3px 0px 0px 0px;
+
+}

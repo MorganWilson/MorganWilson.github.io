@@ -84,6 +84,37 @@ table {
 .clearfix { display: inline-block; }
 html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
+#nav{
+	display: block;
+	width: 100%;
+	border-top-width: 2px;
+	border-top-style: solid; 
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	text-align: center;
 
+}
+#nav ul{display: block;
+		margin-right: auto;
+		margin-left: auto;
+		width: 900px;
+	}
+
+#nav li { 
+	display: inline;
+    list-style:none;
+	float:left;
+	padding: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+
+	text-align: center;
+	text-transform: uppercase;
+	font-family: serif;
+	font-size: x-large;
+	font-weight: bold;
+	font-color: black;
+		
+	}
 
 

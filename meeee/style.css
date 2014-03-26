@@ -50,7 +50,43 @@ table {
 /* Add Styles Here */
 body { font-family:Times; font-size:14px; }
 section#content { margin:0 auto; width:960px; padding:20px 0px; }
+body{background-color: black;
 
-h1 { font-size:48px; font-weight:bold; color:black; text-align:center; }
-h2 { font-size:36px; font-weight:bold; color:black; text-align:center; }
-p { padding-bottom:10px; }
+
+}
+
+h1 { font-size:25px; 
+	font-weight:bold;
+	background-color: gray;
+text-align:center; letter-spacing: 5px;
+	font-family:helvetica; font-weight: lighter;
+	padding-top:5px;padding-bottom:5px;
+color: white}
+h2 { font-size:15px;
+letter-spacing: 2px; 
+	font-weight:bold; 
+	font-weight: lighter;
+	text-align:center;
+	font-family:helvetica; 
+	padding-bottom:15px;padding-top: 20px; 
+	text-transform: uppercase; 
+	color: white; }
+p { padding-bottom:10px;
+	letter-spacing: 1.5px;
+
+	font-family:helvetica; 
+	padding:8px; 
+color:white;}
+img{
+	border-radius: 200px;
+	padding: 30px;
+}
+a {text-decoration: none;
+	color: red;
+	font-size: 9.5px;
+	text-transform: uppercase;
+	font-style: lighter;
+	letter-spacing: 1px;
+
+
+}
