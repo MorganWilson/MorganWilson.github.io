@@ -57,13 +57,14 @@ body{background-color: black;
 
 h1 { font-size:25px; 
 	font-weight:bold;
-	background-color: gray;
-text-align:center; letter-spacing: 5px;
+	background-color: white;
+    text-align:center; letter-spacing: 5px;
 	font-family:helvetica; font-weight: lighter;
 	padding-top:5px;padding-bottom:5px;
-color: white}
+    color: black}
+
 h2 { font-size:15px;
-letter-spacing: 2px; 
+     letter-spacing: 2px; 
 	font-weight:bold; 
 	font-weight: lighter;
 	text-align:center;
@@ -71,16 +72,16 @@ letter-spacing: 2px;
 	padding-bottom:15px;padding-top: 20px; 
 	text-transform: uppercase; 
 	color: white; }
+
 p { padding-bottom:10px;
 	letter-spacing: 1.5px;
-
 	font-family:helvetica; 
 	padding:8px; 
-color:white;}
-img{
-	border-radius: 200px;
-	padding: 30px;
-}
+    color:white;}
+
+img{border-radius: 200px;
+	padding: 30px;}
+
 a {text-decoration: none;
 	color: red;
 	font-size: 9.5px;
