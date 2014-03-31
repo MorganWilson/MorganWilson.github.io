@@ -87,7 +87,9 @@ h1{
 	font-family:'League Gothic';
 	font-size:350%;
 	padding:10px;
+	text-align: center;
 	font-weight: bolder;
+	margin:0 auto; 
 }
 
 h2{
@@ -102,15 +104,22 @@ li{
 	float: left;
 	font-size: large;
 	font-weight: bolder;
-	padding-left: 5px;
+	padding: 10px;
 	text-align: center;
 	list-style: none;
+	border-top: 2px;
+	border-bottom: 2px;
+	border-width: 100%; 
+	border-top: solid;
+	border-bottom: solid;
+
 	
 }
 
 table {
 	border-collapse: collapse;
 	border-spacing: 1;
+
 }
 
 .content{
