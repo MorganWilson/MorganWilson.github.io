@@ -84,6 +84,11 @@ table {
 .clearfix { display: inline-block; }
 html[xmlns] .clearfix { display: block; }
 * html .clearfix { height: 1%; }
+#div h1{
+	clear:both;
+	margin: 0 auto;
+	width: 960px;
+}
 #nav{
 	display: block;
 	width: 100%;

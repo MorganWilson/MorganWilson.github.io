@@ -50,23 +50,55 @@ table {
 	border-spacing: 0;
 }
 
+/*END RESET*/
 
-
-h1 {  position: absolute;
-
-
- 	            background:url('images/logo.png') no-repeat top left;
-                text-indent: -9999px;
-
-              }
-              #site-header{position:relative;
-              height: 120%;
-              background-color: #d4e0a3;
-              width: 100%}
-
-img{
- 	padding-left: 165px;
+#site-wrapper {
+	background-color:#d4e0a3;
 }
+
+#site-header h1 a {  
+	position: absolute;
+	background:url('images/logo.png') no-repeat top left;
+    text-indent: -9999px;
+    width:306px;
+    height:123px;
+}
+              
+#site-header{
+	position:relative;
+	height: 140px;
+    background-color: #d4e0a3;
+    margin:0 auto;
+    width:960px;
+}
+
+#menu-wrapper {
+	background-color:#4f3a11;
+}
+
+#main-menu {
+	position:relative;
+	height:55px;
+	margin:0 auto;
+	width:960px;
+}
+
+#main-menu li {
+  float: left;
+  display: block;
+  padding: 10px;
+  margin: 5px 0px 5px 15px;
+}
+
+#main-menu li a{
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: medium;       
+}
+
+
 #top-nav{
   text-decoration: none;
   position: absolute;
@@ -81,20 +113,16 @@ img{
   position: relative;
   height: 45px;
   background-color: #4f3a11;
-  padding-left: 165px;
+ 
 }
-#main-menu li{
-  text-decoration: none;
-  float: left;
-  display: block;
-  padding: 10px;
-  margin: 5px 0px 5px 15px;
-  color: white;
-  font-weight: bold;
-  text-transform: uppercase;
-  font-size: medium;
-        
-}
+
+
+
+ 
+
+
+
+
 #page {float: left;
       width: 35%;
       margin: 20px 10px;
@@ -140,12 +168,20 @@ p{
 	line-height: 150%;
 }
 #site-footer{
-clear: both;
-	  position: relative;
+	clear: both;
+	position: relative;
     height: 220px;
     width: 100%;
     background-color: #4f3a11;
 }
+#footer-contact h1{
+	clear:both;
+	float: left;
+	width: 120%;
+	color: white;
+	padding-left: 165px;
+	padding-top: 30px;
+}		
 #footer-contact{
 	float:left;
 	width: 120%
@@ -160,10 +196,28 @@ clear: both;
 	color: white;
 
 }
-#footer-follow li {
-  float: left;
-  display: block;
+.clearfix: after{
+		clear: both;
+}
+		
+#footer-follow h1{
+	float:right;
+	clear: both;
+	width: 25%;
+	color: white;
+	margin-top:5px;
+	margin-bottom: 0px;
+    padding: 10px 220px 10px 10px;
+    text-decoration:none;
+	
+}
+#footer-follow li a{
+  list-style:none;
+  clear:both;
+  float: right;
+  
   padding-top: 5px;
   margin: 3px 0px 0px 0px;
+  padding: 0px 220px 10px 10px;
 
 }
