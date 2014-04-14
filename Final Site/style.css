@@ -97,10 +97,19 @@ h1{
 	font-family: arial;
 }
 
-nav{
+#menu-wrapper{
+	background-color: black;
+	
+}
+
+#main-menu{
+	margin:50px 35px;
 	list-style: none;
 	float: left;
 	padding:10px;
 	text-align: center;
 	font-family: arial;
+	clear: both;
+	width:25%;
 }
+
